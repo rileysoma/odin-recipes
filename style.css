@@ -1,0 +1,12 @@
+.top {
+    color:white;
+    background-color: black;
+    font-weight:bold;
+    font-size:x-large;
+}
+
+.list{
+    color:black;
+    background-color:lightcyan;
+    font-style:italic;
+}
